@@ -15,7 +15,7 @@
 | 10   | git commit -m 'readme added'                               | 저장소로 넘기기                                        |
 | 11   | 원형으로 VS 넘어감!                                        |                                                        |
 | 12   | git log --oneline                                          | 확인                                                   |
-| 13   | git remote add origin https://github.com/kimchanwo/TIL.git | 깃 허브 방만들기 후 주소복사 gn VS 붙여 넣기 깃 연결됨 |
+| 13   | git remote add origin 주소                                  | 깃 허브 방만들기 후 주소복사 gn VS 붙여 넣기 깃 연결됨 |
 | 14   | git remote -v                                              | 확인                                                   |
 | 15   | git push origin master                                     | 깃 허브 보내기!                                        |
 |      |                                                            |                                                        |
