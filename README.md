@@ -18,6 +18,6 @@
 | 13   | git remote add origin 주소                                  | 깃 허브 방만들기 후 주소복사 gn VS 붙여 넣기 깃 연결됨 |
 | 14   | git remote -v                                              | 확인                                                   |
 | 15   | git push origin master                                     | 깃 허브 보내기!                                        |
-|      |                                                            |                                                        |
+| 16     |git clone https://github.com/zldrbxo1078/EcountTeam.1_Test.git       클론                                         |                                                        |
 |      |                                                            |                                                        |
 
